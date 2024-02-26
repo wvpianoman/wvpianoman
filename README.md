@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @wvpianoman
-- 👀 I’m interested in Linux.  Specifically ~~NixOS~~ Fedoora Rawhide, ArcoLinux (arch), siduction(debian sid), Solus, openSUSE Tumbleweed
-- 🌱 I’m currently learning ~~Nix~~, VSCode, git, scrirpts
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+All credit for this repositority goes to my brother from another mother, Tolga Erok.  His work inspired me to create my own personal use-case repositories for different Linux Distributions that I have tried them and moved on for one reason or another.
+
+Any repositories with brian- as a prefix are my personal use case.  Others have been cloned from other places throughout the WWW.
+
+You can find Tolga's work at his personal hub https://github.com/tolgaerok
+
 
 <!---
 wvpianoman/wvpianoman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
